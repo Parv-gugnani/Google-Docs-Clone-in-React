@@ -2,8 +2,10 @@ import React from "react";
 
 export default function Docs() {
   return (
-    <div>
-      <h1>docs</h1>
+    <div className="docs-main">
+      <h1>docs clone</h1>
+
+      <button className="add-docs">Add a Documents +</button>
     </div>
   );
 }
