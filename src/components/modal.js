@@ -30,12 +30,6 @@ export default function ModalComponent({ open, setOpen }) {
       >
         <Box sx={style}>
           <input placeholder="Add a title" className="add-input" />
-          {/* <Typography id="modal-modal-title" variant="h6" component="h2">
-            This is test in the modal
-          </Typography>
-          <Typography id="modal-modal-description" sx={{ mt: 2 }}>
-            This is just a random text lmao ded xd
-          </Typography> */}
           <div className="button-container">
             <button className="add-docs">Add</button>
           </div>
