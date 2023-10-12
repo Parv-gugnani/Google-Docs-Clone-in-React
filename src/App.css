@@ -1,5 +1,6 @@
 .docs-main {
   text-align: center;
+  font-family: 'Segoe UI';
 }
 
 
@@ -15,4 +16,9 @@
   height: 40px;
   width: 200px;
   background-color: #ffb703;
+  font-family: 'Segoe UI';
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+
 }
