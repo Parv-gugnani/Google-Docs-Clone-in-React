@@ -1,6 +1,13 @@
+* {
+  font-family: 'Segoe UI';
+  background-color: #219ebc;
+
+}
+
 .docs-main {
   text-align: center;
-  font-family: 'Segoe UI';
+  color: #023047;
+
 }
 
 
@@ -16,9 +23,23 @@
   height: 40px;
   width: 200px;
   background-color: #ffb703;
-  font-family: 'Segoe UI';
   cursor: pointer;
   border: none;
   border-radius: 8px;
 
+}
+
+
+.add-input {
+  width: 95%;
+  height: 40px;
+  outline: none;
+  border: 1px solid #023047;
+  border-radius: 0px;
+  padding: 10px;
+}
+
+.button-container {
+  text-align: center;
+  margin: 30px;
 }
